@@ -1,0 +1,12 @@
+numpy
+pandas
+openslide-python
+opencv-python
+Pillow
+h5py
+torch>=2.2.2
+torchvision>=0.17.1
+matplotlib
+seaborn
+requests
+psutil
